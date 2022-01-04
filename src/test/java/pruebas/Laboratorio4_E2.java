@@ -28,6 +28,8 @@ public class Laboratorio4_E2 {
 	
 	@Test(dataProvider="Datos del excel")
 	public void login(String email, String password) {
+		
+		// Cambio en el archivo
 		PaginaInicio inicio = new PaginaInicio(driver);
 		inicio.clicEnSignIn();
 		
