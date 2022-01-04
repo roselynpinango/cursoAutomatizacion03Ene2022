@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-03T20:36:15 ART" name="Suite" finished-at="2022-01-03T20:36:34 ART" duration-ms="19498">
+    <groups>
+    </groups>
+    <test started-at="2022-01-03T20:36:15 ART" name="Test" finished-at="2022-01-03T20:36:34 ART" duration-ms="19498">
+      <class name="pruebas.Laboratorio4_E2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pruebas.Laboratorio4_E2@64cd705f]" started-at="2022-01-03T20:36:06 ART" name="setUp" finished-at="2022-01-03T20:36:15 ART" duration-ms="8719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Laboratorio4_E2@64cd705f]" started-at="2022-01-03T20:36:16 ART" name="login" data-provider="Datos del excel" finished-at="2022-01-03T20:36:20 ART" duration-ms="3726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo3@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Laboratorio4_E2@64cd705f]" started-at="2022-01-03T20:36:20 ART" name="login" data-provider="Datos del excel" finished-at="2022-01-03T20:36:24 ART" duration-ms="3764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo4@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Laboratorio4_E2@64cd705f]" started-at="2022-01-03T20:36:24 ART" name="login" data-provider="Datos del excel" finished-at="2022-01-03T20:36:27 ART" duration-ms="3195" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo5@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45dsff4s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Laboratorio4_E2@64cd705f]" started-at="2022-01-03T20:36:27 ART" name="login" data-provider="Datos del excel" finished-at="2022-01-03T20:36:31 ART" duration-ms="4139" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo6@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ferewrfwa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Laboratorio4_E2@64cd705f]" started-at="2022-01-03T20:36:31 ART" name="login" data-provider="Datos del excel" finished-at="2022-01-03T20:36:34 ART" duration-ms="3141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo7@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[esfw3a3a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pruebas.Laboratorio4_E2@64cd705f]" started-at="2022-01-03T20:36:34 ART" name="tearDown" finished-at="2022-01-03T20:36:35 ART" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pruebas.Laboratorio4_E2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
